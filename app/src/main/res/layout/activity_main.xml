@@ -29,29 +29,5 @@
 
         </androidx.viewpager.widget.ViewPager>
 
-<!--        <TextView-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="@{dataText}" />-->
-
-<!--        <EditText-->
-<!--            android:id="@+id/text_bebas"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="0dp"-->
-<!--            android:layout_weight="1"-->
-<!--            android:gravity="top"-->
-<!--            android:hint="1" />-->
-
-<!--        <Button-->
-<!--            android:id="@+id/btn_bebas"-->
-<!--            android:layout_width="100dp"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:layout_gravity="right"-->
-<!--            android:layout_margin="2dp"-->
-<!--            android:background="@color/colorAccent"-->
-<!--            android:text="Button 1"-->
-<!--            android:textColor="#fff"-->
-<!--            android:textStyle="bold" />-->
-
     </LinearLayout>
 </layout>
